@@ -1,0 +1,46 @@
+{
+  "name": "@stdlib/math-strided-special-smsktrunc",
+  "version": "0.0.0",
+  "description": "Round each element in a single-precision floating-point strided array toward zero according to a strided mask array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-strided-special-smsktrunc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "math.trunc",
+    "trunc",
+    "truncate",
+    "round",
+    "integer",
+    "nearest",
+    "value",
+    "number",
+    "single-precision",
+    "float",
+    "flt",
+    "float32",
+    "float32array",
+    "vector",
+    "array",
+    "strided",
+    "ndarray",
+    "element-wise",
+    "mask",
+    "masked",
+    "missing",
+    "missing values",
+    "na"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
