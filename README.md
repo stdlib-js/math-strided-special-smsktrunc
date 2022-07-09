@@ -368,8 +368,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-strided-special-smsktrunc.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-strided-special-smsktrunc
 
-[test-image]: https://github.com/stdlib-js/math-strided-special-smsktrunc/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/math-strided-special-smsktrunc/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/math-strided-special-smsktrunc/actions/workflows/test.yml/badge.svg?branch=v0.0.9
+[test-url]: https://github.com/stdlib-js/math-strided-special-smsktrunc/actions/workflows/test.yml?query=branch:v0.0.9
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-strided-special-smsktrunc/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-strided-special-smsktrunc?branch=main
