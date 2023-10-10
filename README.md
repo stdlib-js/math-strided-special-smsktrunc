@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@deno/mod.js';
+import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@v0.1.1-deno/mod.js';
 ```
 
 #### smsktrunc( N, x, sx, m, sm, y, sy )
@@ -167,7 +167,7 @@ smsktrunc.ndarray( 3, x, 2, 1, m, 2, 1, y, -1, y.length-1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@deno/mod.js';
-import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@deno/mod.js';
+import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@v0.1.1-deno/mod.js';
 
 var x = new Float32Array( 10 );
 var m = new Uint8Array( 10 );
