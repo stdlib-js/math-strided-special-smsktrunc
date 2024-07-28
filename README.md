@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@esm/index.mjs';
+import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@v0.2.2-esm/index.mjs';
 ```
 
 #### smsktrunc( N, x, sx, m, sm, y, sy )
@@ -172,7 +172,7 @@ smsktrunc.ndarray( 3, x, 2, 1, m, 2, 1, y, -1, y.length-1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@esm/index.mjs';
-import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@esm/index.mjs';
+import smsktrunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-smsktrunc@v0.2.2-esm/index.mjs';
 
 var x = new Float32Array( 10 );
 var m = new Uint8Array( 10 );
