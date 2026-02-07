@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-smsktrunc",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Round each element in a single-precision floating-point strided array toward zero according to a strided mask array.",
   "license": "Apache-2.0",
   "author": {
@@ -41,10 +41,10 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-truncf": "^0.2.2",
-    "@stdlib/strided-base-smskmap": "^0.2.2",
-    "@stdlib/strided-napi-smskmap": "^0.2.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
+    "@stdlib/math-base-special-truncf": "^0.2.3",
+    "@stdlib/strided-base-smskmap": "^0.2.3",
+    "@stdlib/strided-napi-smskmap": "^0.2.3",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.3",
     "@stdlib/utils-try-require": "^0.2.2"
   },
@@ -52,9 +52,9 @@
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-uint8": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/math-base-assert-is-nanf": "^0.2.2",
+    "@stdlib/math-base-assert-is-nanf": "^0.2.3",
     "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/random-base-uniform": "^0.2.1",
+    "@stdlib/random-base-uniform": "^0.2.2",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
