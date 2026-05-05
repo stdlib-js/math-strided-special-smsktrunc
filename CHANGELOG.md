@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-23)
+## Unreleased (2026-05-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`85ce241`](https://github.com/stdlib-js/stdlib/commit/85ce2413da6275c149f34964adef0678becfd220) - **docs:** add missing keywords in `math/strided/special` packages [(#11943)](https://github.com/stdlib-js/stdlib/pull/11943) _(by Philipp Burckhardt)_
 -   [`23d316f`](https://github.com/stdlib-js/stdlib/commit/23d316f6eda9201e0827d9f98ee523f9270d5939) - **bench:** refactor to use dynamic memory allocation in `maths/strided/special` [(#11697)](https://github.com/stdlib-js/stdlib/pull/11697) _(by Uday Kakade)_
 -   [`a94a4ef`](https://github.com/stdlib-js/stdlib/commit/a94a4efa9cf521c2e6257deccb9fce9cf4451d57) - **bench:** refactor to use string interpolation in `math/strided/special` [(#11364)](https://github.com/stdlib-js/stdlib/pull/11364) _(by Karan Anand)_
 -   [`cd99fef`](https://github.com/stdlib-js/stdlib/commit/cd99fef661e7a5f6e600ee81295ec4dbc8501187) - **docs:** fix C examples [(#11135)](https://github.com/stdlib-js/stdlib/pull/11135) _(by anee3)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 -   Uday Kakade
 -   anee3
 
